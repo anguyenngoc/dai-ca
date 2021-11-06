@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/dai-ca/static/css/main.9daa8ab6.chunk.css",
+    "main.js": "/dai-ca/static/js/main.9f45ceaa.chunk.js",
+    "main.js.map": "/dai-ca/static/js/main.9f45ceaa.chunk.js.map",
+    "runtime-main.js": "/dai-ca/static/js/runtime-main.7c9bb6b8.js",
+    "runtime-main.js.map": "/dai-ca/static/js/runtime-main.7c9bb6b8.js.map",
+    "static/css/2.a310d5aa.chunk.css": "/dai-ca/static/css/2.a310d5aa.chunk.css",
+    "static/js/2.ae79a49c.chunk.js": "/dai-ca/static/js/2.ae79a49c.chunk.js",
+    "static/js/2.ae79a49c.chunk.js.map": "/dai-ca/static/js/2.ae79a49c.chunk.js.map",
+    "static/js/3.2fc891da.chunk.js": "/dai-ca/static/js/3.2fc891da.chunk.js",
+    "static/js/3.2fc891da.chunk.js.map": "/dai-ca/static/js/3.2fc891da.chunk.js.map",
+    "index.html": "/dai-ca/index.html",
+    "static/css/2.a310d5aa.chunk.css.map": "/dai-ca/static/css/2.a310d5aa.chunk.css.map",
+    "static/css/main.9daa8ab6.chunk.css.map": "/dai-ca/static/css/main.9daa8ab6.chunk.css.map",
+    "static/js/2.ae79a49c.chunk.js.LICENSE.txt": "/dai-ca/static/js/2.ae79a49c.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/dai-ca/static/media/bg.264029d6.svg",
+    "static/media/footer.5fbff7a6.svg": "/dai-ca/static/media/footer.5fbff7a6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c9bb6b8.js",
+    "static/css/2.a310d5aa.chunk.css",
+    "static/js/2.ae79a49c.chunk.js",
+    "static/css/main.9daa8ab6.chunk.css",
+    "static/js/main.9f45ceaa.chunk.js"
+  ]
+}
